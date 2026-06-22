@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-experimental
 
 # OpenAI Integration
 langchain-openai
@@ -34,3 +35,6 @@ streamlit
 # Pydantic 
 pydantic
 pydantic[email]
+
+# Document
+pypdf
